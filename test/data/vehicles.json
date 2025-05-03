@@ -1,0 +1,22 @@
+{
+  "vehicle1": {
+    "name": "Vehicle 1",
+    "model": "BMW",
+    "year": "2020",
+    "color": "Red"
+  },
+  "vehicle2": {
+    "initialData": {
+      "name": "Vehicle 1",
+      "model": "BMW",
+      "year": "2020",
+      "color": "Red"
+    },
+    "expectedData": {
+      "name": "Vehicle 1",
+      "model": "Mazda",
+      "year": "2020",
+      "color": "Red"
+    }
+  }
+}
